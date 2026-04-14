@@ -71,9 +71,10 @@ It focuses on:
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_1" width="250"/>
-  <img src="YOUR_IMAGE_LINK_2" width="250"/>
-  <img src="YOUR_IMAGE_LINK_3" width="250"/>
+  <img src="C:\Users\saipa\Desktop\Flutterr\SafeSync\guardx\assets\Screenshot_20260328_224701.jpg" width="250"/>
+  <img src="C:\Users\saipa\Desktop\Flutterr\SafeSync\guardx\assets\Screenshot_20260328_223200_One UI Home.jpg" width="250"/>
+  <img src="C:\Users\saipa\Desktop\Flutterr\SafeSync\guardx\assets\Screenshot_20260328_222946_Android System.jpg" width="250"/>
+  <img src="C:\Users\saipa\Desktop\Flutterr\SafeSync\guardx\assets\Screenshot_20260328_223122.jpg" width="250"/>
 </p>
 
 ---
