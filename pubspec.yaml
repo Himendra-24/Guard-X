@@ -1,0 +1,65 @@
+name: guard_x
+description: Guard-X – Personal Safety Companion App
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # ── Local Database ─────────────────────
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # ── Notifications ──────────────────────
+  flutter_local_notifications: ^18.0.1
+
+  # ── URL Launcher (Call + SMS) ──────────
+  url_launcher: ^6.3.1
+
+  # ── Location ───────────────────────────
+  geolocator: ^13.0.2
+
+  # ── Permissions ─────────────────────────
+  permission_handler: ^11.3.1
+
+  # ── Vibration ──────────────────────────
+  vibration: ^2.0.0
+
+  # ── Audio (Alarm / Siren) ──────────────
+  audioplayers: ^6.1.0
+
+  # ── Flashlight ─────────────────────────
+  torch_light: ^1.1.0
+
+  # ── UI ────────────────────────────────
+  cupertino_icons: ^1.0.8
+  firebase_core: ^4.6.0
+  firebase_auth: ^6.3.0
+  google_sign_in: ^6.2.1
+  cloud_firestore: ^6.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.13
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+    - assets/alarm.mp3
+    - assets/alarm.wav
+    - assets/police_siren.wav
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.png"
+  min_sdk_android: 21
