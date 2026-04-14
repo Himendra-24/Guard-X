@@ -72,6 +72,7 @@ It focuses on:
 
 <p align="center">
   <img src="Screenshot_20260328_224701.jpg" width="250"/>
+  <img src="https://raw.githubusercontent.com/Himendra-24/Guard-X/main/Screenshot_20260328_224701.jpg" width="250"/>
   <img src="Screenshot_20260328_223200_One UI Home.jpg" width="250"/>
   <img src="Screenshot_20260328_222946_Android System.jpg" width="250"/>
   <img src="Screenshot_20260328_223122.jpg" width="250"/>
